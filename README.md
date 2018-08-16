@@ -1,3 +1,6 @@
+Sample App from the code base https://github.com/halkar/Tesseract.Xamarin
+
+
 # Xamarin.Tesseract
 Xamarin.Tesseract is a wrapper for [Tesseract OCR](https://code.google.com/p/tesseract-ocr/) library.
 For Android [tess-two](https://github.com/rmtheis/tess-two) is used and for iOS implementation from [gali8](https://github.com/gali8/Tesseract-OCR-iOS) (v.4.0.0) is used.
